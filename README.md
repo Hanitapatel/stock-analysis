@@ -51,8 +51,8 @@ The refactor script is taking longer because it include all the codes for Inpubo
 -	Save the user’s time
 
 ## Disadvantage of refactored VBA script
--Time consuming
--It can crash your original script
+- Time consuming
+- It can crash your original script
 
 
 
