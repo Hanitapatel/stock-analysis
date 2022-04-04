@@ -8,9 +8,11 @@ on his analysis by using VBA. We can write code that will automate these analyse
 Based on the analysis we did for DQ it appears that it did perform very well in 2017 but not so much in 2018. in the DQ analysis work sheet we can see that this
 particular stock has total volume of 107,873,900 and -63% return in 2018. 
 
-DQ Analysis Excle Image
+![Text to Column](https://github.com/Hanitapatel/stock-analysis/blob/main/Challenge/DQ%20Analysis%20Excel.png)
 
-DQ Analysis VBA Image
+
+![Text to Column](https://github.com/Hanitapatel/stock-analysis/blob/main/Challenge/DQ%20Analysis%20%20VBA.png)
+
 
 ## All Stocks Analysis
 In the All Stocks Analysis worksheet, we can see total volume and Return for all the given tickers for the year of 2017 and 2018. 
@@ -21,15 +23,18 @@ Based on this analysis we can see that DQ performed very good in 2017 but in 201
 stocks did not perform well in 2018.  Our analysis shows that there are some other good green energy stocks out there to invest in example of ticker ENPH which
 did perform good in both years. Tickers RUN, SEDG, VSLR also needs to consider investing in.
 
-All Stocks Analyisis Excel Image 2017
 
-All Stocks Analysis Excel Image 2018
+![Text to Column](https://github.com/Hanitapatel/stock-analysis/blob/main/Challenge/All%20Stock%20Analysis_2017.png)
+
+![Text to Column](https://github.com/Hanitapatel/stock-analysis/blob/main/Challenge/All%20Stock%20Analysis_2018.png)
+
+
 
 By using VBA we automated the entire analysis for Steve. Created button for Run the analysis and to clear the analysis also created InputBox  which  Steve can 
 use to enter the year value to run the analysis for 2017 and 2018 separately. We also wrote the code to find the elapsed time for 2017 and 2018 and create 
 message box that shows the time every time we run analysis for either of the year
 
-All Stocks Analysis VBA image
+![Text to Column](https://github.com/Hanitapatel/stock-analysis/blob/main/Challenge/All%20Stocks%20Analysis%20VBA.png)
 
 In the challenge I refactor the code that we did for All Stocks Analysis to make it more efficient. 
         The execution time to run original script for 2017 is 0.53125 and for 2018 is 0.46875 and the execution time to run the refactor script for 2017 is 
